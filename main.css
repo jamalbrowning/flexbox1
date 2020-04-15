@@ -63,7 +63,7 @@ body{
 .nav-list{
  list-style-type: none;
  margin: 0px;
- padding: 0 ;
+ padding: 5px;
  display: flex;
 }
 
